@@ -17,6 +17,8 @@ Open `index.html` directly in a browser — no build step or server required.
 - UI language: PT-BR
 - Validated against reference ESS calculators online
 - Put all the questions on the same screen. It shouldn't be one question per screen, like a quiz.
+- There shouldn't be a separate welcome screen from the screen with the questions. The welcome text and the questions should be on the same screen.
+- When showing the results screen, scroll back to the top of the page.
 
 ## ESS Scoring Reference
 
